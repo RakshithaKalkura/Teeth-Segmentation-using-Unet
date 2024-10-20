@@ -34,6 +34,10 @@ The performance of the segmentation model will be evaluated using the **Dice sco
    ```bash
    git clone https://github.com/yourusername/teeth-segmentation.git
    cd teeth-segmentation
+2. Install requirements: 
+   ```bash
    pip install -r requirements.txt
+3. Run the python file:
+   ```bash
    python run.py
 
